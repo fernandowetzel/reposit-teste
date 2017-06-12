@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
-  host:    hello-node
+- name:    Pipeline-teste
+  host:    fernando-teste
   memory:  128M
